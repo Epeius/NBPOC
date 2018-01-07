@@ -1,0 +1,4 @@
+warning: not enough tile data (80 bytes)
+warning: component data type mismatch
+opencv_afl-test: jas_image.c:1344: jas_image_chclrspc: Assertion `inprof' failed.
+Aborted (core dumped)

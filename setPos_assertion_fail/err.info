@@ -1,0 +1,2 @@
+opencv_afl-test: /home/opencv/fuzz/target/opencv-3.3.1/modules/imgcodecs/src/bitstrm.cpp:168: void cv::RBaseStream::setPos(int): Assertion `isOpened() && pos >= 0' failed.
+Aborted (core dumped)
